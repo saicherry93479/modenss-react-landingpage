@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modenss-react-landingpage/static/css/main.de4d8eea.css",
+    "main.js": "/modenss-react-landingpage/static/js/main.41c5ddb1.js",
+    "static/js/787.da6f6eeb.chunk.js": "/modenss-react-landingpage/static/js/787.da6f6eeb.chunk.js",
+    "static/media/screenTwoHero.png": "/modenss-react-landingpage/static/media/screenTwoHero.1940568131de47a246bc.png",
+    "static/media/fourMiddle.png": "/modenss-react-landingpage/static/media/fourMiddle.ee8d33004dc309ce61be.png",
+    "static/media/fourRight.png": "/modenss-react-landingpage/static/media/fourRight.4617280d9442db36a4b1.png",
+    "static/media/CherryBomb-Regular.ttf": "/modenss-react-landingpage/static/media/CherryBomb-Regular.67836ae9a716aea60fbb.ttf",
+    "static/media/heroImage.png": "/modenss-react-landingpage/static/media/heroImage.b505056c6e911e163765.png",
+    "static/media/itemTwo.png": "/modenss-react-landingpage/static/media/itemTwo.24e1bf3bc666e1b59680.png",
+    "static/media/itemThree.png": "/modenss-react-landingpage/static/media/itemThree.580eac1076422f413bbd.png",
+    "static/media/itemOne.png": "/modenss-react-landingpage/static/media/itemOne.72f23bfb9e059fb87952.png",
+    "index.html": "/modenss-react-landingpage/index.html",
+    "main.de4d8eea.css.map": "/modenss-react-landingpage/static/css/main.de4d8eea.css.map",
+    "main.41c5ddb1.js.map": "/modenss-react-landingpage/static/js/main.41c5ddb1.js.map",
+    "787.da6f6eeb.chunk.js.map": "/modenss-react-landingpage/static/js/787.da6f6eeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4d8eea.css",
+    "static/js/main.41c5ddb1.js"
+  ]
+}
